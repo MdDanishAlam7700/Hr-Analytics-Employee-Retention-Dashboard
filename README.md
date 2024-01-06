@@ -6,7 +6,7 @@ Problem Statements:-
 - Average Hourly rate of Male Research Scientist
 - Attrition rate Vs Monthly income stats
 - Average working years for each Department
-- Department wise No of Employees  (5,6 SHIVANI)
+- Department wise No of Employees 
 - Count of Employees based on Educational Fields
 - Job Role Vs Work life balance
 - Attrition rate Vs Year since last promotion relation
