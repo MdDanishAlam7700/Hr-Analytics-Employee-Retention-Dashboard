@@ -1,7 +1,7 @@
 # Hr-Analytics-Employee-Retention-Dashboard
 
 ## Purpose: 
-This project aims to leverage data-driven insights to develop impactful strategies and models for reducing employee turnover, ultimately contributing to a more engaged and productive workforce.
+This project aims to leverage data-driven insights to develop impactful strategies and models for reducing employee turnover, ultimately contributing to a more engaged and productive workforce.The HR Analytics Employee Retention project is a valuable resource for organizations aiming to enhance employee retention through the power of data analytics. 
 
 ## Project scope:
 
@@ -17,8 +17,7 @@ This project aims to leverage data-driven insights to develop impactful strategi
 
 * **Reduced employee turnover:** By proactively identifying employees at risk of leaving, HR can implement targeted retention strategies (e.g., career development opportunities, competitive compensation packages, improved work-life balance initiatives).
 * **Improved HR decision-making:** Data-driven insights can inform strategic HR decisions regarding talent acquisition, compensation, performance management, and employee engagement programs.
-
-
+* **Employee Satisfaction:** Improves overall employee satisfaction by addressing factors leading to turnover.
 
 ## Problem Statements:-
 
