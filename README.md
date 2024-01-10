@@ -1,7 +1,7 @@
 # Hr-Analytics-Employee-Retention-Dashboard
 
 ## Purpose: 
-This project aims to leverage HR analytics to build models and insights that predict and ultimately reduce employee turnover. By sharing it on GitHub, you contribute to the open-source community while gaining valuable feedback and collaboration opportunities.
+This project aims to leverage data-driven insights to develop impactful strategies and models for reducing employee turnover, ultimately contributing to a more engaged and productive workforce.
 
 ## Project scope:
 
