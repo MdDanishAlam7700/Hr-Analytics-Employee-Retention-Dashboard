@@ -13,7 +13,7 @@ This project aims to leverage data-driven insights to develop impactful strategi
 * **Visualization and Communication:** Utilize data visualization tools to create interactive dashboards and reports that effectively communicate insights to stakeholders.
 
 
-**Impact and Benefits:**
+## Impact and Benefits:
 
 * **Reduced employee turnover:** By proactively identifying employees at risk of leaving, HR can implement targeted retention strategies (e.g., career development opportunities, competitive compensation packages, improved work-life balance initiatives).
 * **Improved HR decision-making:** Data-driven insights can inform strategic HR decisions regarding talent acquisition, compensation, performance management, and employee engagement programs.
