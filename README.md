@@ -34,4 +34,4 @@ This project aims to leverage data-driven insights to develop impactful strategi
 - Department / Job Role wise job satisfaction
 - Maritial Status And Gender Wise Attrition
 
-Interactive Dashboard In Excel , Power Bi , Tableau with the HR Dataset And the Problem Statements Are Mentioned Above.
+Interactive Dashboard using  Excel , Power Bi , Tableau with the HR Dataset .
