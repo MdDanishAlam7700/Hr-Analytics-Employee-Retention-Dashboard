@@ -15,9 +15,12 @@ This project aims to leverage data-driven insights to develop impactful strategi
 
 ## Impact and Benefits:
 
-* **Reduced employee turnover:** By proactively identifying employees at risk of leaving, HR can implement targeted retention strategies (e.g., career development opportunities, competitive compensation packages, improved work-life balance initiatives).
-* **Improved HR decision-making:** Data-driven insights can inform strategic HR decisions regarding talent acquisition, compensation, performance management, and employee engagement programs.
-* **Employee Satisfaction:** Improves overall employee satisfaction by addressing factors leading to turnover.
+•	Conducted Retention Analysis Using Excel And MySQL, Interpreting Large HR Datasets To Identify Trends And Insights That Contributed To A 10% Improvement In Employee Retention And Reduced Turnover.
+•	Built Interactive Power BI And Tableau Dashboards To Visualize Retention Metrics, Workforce Trends, And Turnover Rates, Enhancing Reporting Efficiency By 15% And Supporting Strategic HR Decisions.
+•	Leveraged Predictive Analytics And AI-Driven Tools To Identify Key Drivers Of Employee Attrition, Supporting The HR Team In Implementing Proactive Retention Strategies That Decreased Turnover By 18% In Identified Segments.
+•	Performed Data Cleaning And Validation On HR Datasets To Ensure High Data Quality, Resulting In A 20% Reduction In Discrepancies And Improved Accuracy In Workforce Analytics And Reporting.
+•	Collaborated With HR Stakeholders To Present Data-Driven Insights, Supporting Three Major Initiatives Focused On Employee Engagement And Retention That Improved Satisfaction Scores By 10%.
+
 
 ## Problem Statements:-
 
