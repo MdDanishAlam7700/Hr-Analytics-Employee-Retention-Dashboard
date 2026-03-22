@@ -1,3 +1,9 @@
+
+
+<img width="1678" height="944" alt="Screenshot 2024-02-17 133004" src="https://github.com/user-attachments/assets/ab3a67a9-c32f-4b94-be91-dad55d915078" />
+<img width="1442" height="806" alt="Screenshot 2023-12-29 140052" src="https://github.com/user-attachments/assets/1f6aa9dd-e6dd-477e-b00c-1171808813e7" />
+<img width="1440" height="803" alt="Screenshot 2023-12-29 140030" src="https://github.com/user-attachments/assets/28b262df-9c3c-479c-9a37-4c2a8b2df69d" />
+<img width="1678" height="947" alt="Screenshot 2024-02-17 133024" src="https://github.com/user-attachments/assets/434bcf18-571d-4572-8948-6f0992b5c631" />
 # Hr-Analytics-Employee-Retention-Dashboard
 
 ## Purpose: 
